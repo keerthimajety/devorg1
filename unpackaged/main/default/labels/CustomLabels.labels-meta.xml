@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>No_of_times_Address_can_be_changed_in_Account_object</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>No of times Address can be changed in Account object</shortDescription>
+        <value>5</value>
+    </labels>
+</CustomLabels>

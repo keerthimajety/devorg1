@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Blood donor</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>blood donors</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Blood donor Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- the age should not be less than 18 --></errorMessage>
+        <name>no_record_with_less_age</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The phone number should be 10 digits and it should be a number --></errorMessage>
+        <name>phone_number_length</name>
+    </validationRules>
+</CustomObjectTranslation>

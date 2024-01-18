@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- product ID --></label>
+        <lookupFilter>
+            <errorMessage><!-- the odered unit are not ready for sale --></errorMessage>
+        </lookupFilter>
+        <name>product_ID__c</name>
+        <relationshipLabel><!-- Ordercs --></relationshipLabel>
+    </CustomFieldTranslation>

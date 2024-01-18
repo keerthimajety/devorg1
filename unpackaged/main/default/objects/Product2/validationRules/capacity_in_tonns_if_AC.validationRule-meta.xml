@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>capacity_in_tonns_if_AC</fullName>
+    <active>true</active>
+    <description>shows error if the field is empty for the AC</description>
+    <errorConditionFormula>( ISPICKVAL( model__c , &#39;SAC001&#39;)  || 
+ISPICKVAL( model__c , &#39;SAC002&#39;) || 
+ISPICKVAL( model__c , &#39;SAC003&#39;) || 
+ISPICKVAL( model__c ,&#39; LAC001&#39;) || 
+ISPICKVAL( model__c , &#39;LAC002&#39;) || 
+ISPICKVAL( model__c , &#39;LAC003&#39;) || 
+ISPICKVAL( model__c ,&#39; HAC001&#39;) || 
+ISPICKVAL( model__c , &#39;HAC002&#39;) || 
+ISPICKVAL( model__c ,&#39; HAC003&#39;) ) &amp;&amp;  ISBLANK( capacity_tons__c )</errorConditionFormula>
+    <errorMessage>enter the tonns as the product selected is AC</errorMessage>
+</ValidationRule>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Resolution Type --></label>
+        <name>Resolution_Type__c</name>
+        <picklistValues>
+            <masterLabel>Knowledge</masterLabel>
+            <translation><!-- Knowledge --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Operational</masterLabel>
+            <translation><!-- Operational --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>functional</masterLabel>
+            <translation><!-- functional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>technical</masterLabel>
+            <translation><!-- technical --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

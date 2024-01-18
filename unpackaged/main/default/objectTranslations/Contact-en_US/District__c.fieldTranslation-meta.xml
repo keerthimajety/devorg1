@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- District --></label>
+        <name>District__c</name>
+        <picklistValues>
+            <masterLabel>bangalore</masterLabel>
+            <translation><!-- bangalore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>belagavi</masterLabel>
+            <translation><!-- belagavi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>chennai</masterLabel>
+            <translation><!-- chennai --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>east godavari</masterLabel>
+            <translation><!-- east godavari --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>erode</masterLabel>
+            <translation><!-- erode --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>kannur</masterLabel>
+            <translation><!-- kannur --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>mysore</masterLabel>
+            <translation><!-- mysore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>nagapattinam</masterLabel>
+            <translation><!-- nagapattinam --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>nellore</masterLabel>
+            <translation><!-- nellore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ongole</masterLabel>
+            <translation><!-- ongole --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>tiruvananthapuram</masterLabel>
+            <translation><!-- tiruvananthapuram --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>vellore</masterLabel>
+            <translation><!-- vellore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>vijayanagara</masterLabel>
+            <translation><!-- vijayanagara --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>wayanad</masterLabel>
+            <translation><!-- wayanad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>west godavari</masterLabel>
+            <translation><!-- west godavari --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
